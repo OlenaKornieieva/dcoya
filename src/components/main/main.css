@@ -1,0 +1,23 @@
+.headlines{
+    width: 100%;
+    padding: 1em 0 0 0;
+}
+.headlines li{
+    display: inline-block;
+}
+.headlines i{
+    font-size: 2.5em;
+    color: #4278ff;
+}
+.headlinesBorder, .tableBorder{
+    border: 1px silver solid;
+    box-shadow: -2px 2px 3px silver;
+}
+.headlinesBorder h1{
+    color: #4278ff;
+}
+.headlinesBorder{
+    margin-top: 15px;
+}
+
+

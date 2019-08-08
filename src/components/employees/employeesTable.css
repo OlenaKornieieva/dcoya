@@ -1,0 +1,34 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+    font-size: 0.8em;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.title{
+    font-size: 0.5em;
+    background: #004466;
+    color: white;
+    padding: 0.2em 0 0 0.3em;
+}
+#custom-search-input .input-group .inputTitle{
+    background: #004466;
+    color: white;
+    box-shadow: none;
+}
+.id{
+    color: #4278ff;
+    font-size: 1em;
+}
+.pagination li{
+    padding-left: 1em;
+}
+
+

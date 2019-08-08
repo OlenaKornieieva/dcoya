@@ -1,0 +1,39 @@
+.menu li{
+    list-style-type: none;
+    color: silver;
+}
+.menu i{
+    width: 18px;
+    padding-right: 2em;
+}
+.menuName{
+    padding-bottom: 1.5em;
+}
+.toggleBtn{
+    font-size: 1.2em;
+}
+.companyName{
+    background: #4278ff;
+    padding: 0.7em;
+}
+.subMenu{
+    font-size: 0.8em;
+    padding-bottom: 1em;
+}
+.menu .fas.fa-cog{
+    color: #4278ff;
+}
+.advantive{
+    color: white;
+    border-bottom: 2px solid #4278ff;
+    width: 20%;
+    padding-bottom: 0;
+}
+.sidebarContainer{
+    width: 100%;
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .advantive{
+        width: 5%;
+    }
+}
